@@ -1,6 +1,5 @@
-# nxboot-ios-guide
-![image](https://raw.githubusercontent.com/iraizo/nxboot-ios-guide/master/content/images/guide-icon.png)
-
+# NXBoot IOS Guide
+<img src="https://raw.githubusercontent.com/iraizo/nxboot-ios-guide/master/content/images/guide-icon.png" height="150" width="150">
 
 
 
