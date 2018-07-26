@@ -4,4 +4,5 @@
 
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/iraizo/nxboot-ios-guide)
 
