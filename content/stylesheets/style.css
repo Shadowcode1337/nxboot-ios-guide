@@ -177,3 +177,10 @@ div#olli span#other {
 div#olli:hover span#other {
   display: inline;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
