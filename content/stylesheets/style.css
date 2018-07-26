@@ -157,9 +157,9 @@ img:hover {
   -o-transition: all .3s ease-in;
   transition: all .3s ease-in;
   opacity: 1;
-  transform: scale(2.5);
-  -ms-transform: scale(2.5); /* IE 9 */
-  -webkit-transform: scale(2.5); /* Safari and Chrome */
+  transform: scale(1);
+  -ms-transform: scale(1); /* IE 9 */
+  -webkit-transform: scale(1); /* Safari and Chrome */
 }
 
 div#olli span#normal {
@@ -177,8 +177,7 @@ div#olli span#other {
 div#olli:hover span#other {
   display: inline;
 }
-
-.center {
+	.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
