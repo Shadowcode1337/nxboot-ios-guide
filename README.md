@@ -1,5 +1,10 @@
 # nxboot-ios-guide
 ![image](https://raw.githubusercontent.com/iraizo/nxboot-ios-guide/master/content/images/guide-icon.png)
+
+
+
+
+
 NXBoot guide made by raizo and pungent 
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
