@@ -3,8 +3,8 @@
 
 
 
-
-NXBoot guide made by raizo and pungent 
+ 
+NXBoot guide made by Raizo.
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![made-with-python](https://img.shields.io/badge/Made%20with-HTML-1f425f.svg)
