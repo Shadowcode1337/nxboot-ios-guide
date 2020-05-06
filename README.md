@@ -6,6 +6,6 @@
  
 NXBoot guide made by Raizo.
 
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)
 ![made-with-python](https://img.shields.io/badge/Made%20with-HTML-1f425f.svg)
 ![made-with-python](https://img.shields.io/badge/Made%20with-CSS-1f425f.svg)
